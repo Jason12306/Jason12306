@@ -12,3 +12,5 @@
 - Hallo
 - marhaba
 - Xin chào
+
+[![Jason12306's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason12306&show_icons=true&theme=dracula)](https://github.com/Jason12306/github-readme-stats)
